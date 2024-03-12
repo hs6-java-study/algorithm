@@ -1,7 +1,7 @@
 package second.ss;
 import java.util.Scanner;
 
-public class Day1_2480 {
+public class Day2_2480 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
