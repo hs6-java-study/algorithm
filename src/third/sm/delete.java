@@ -1,4 +1,4 @@
 package third.sm;
 
-public class delete `{
+public class delete {
 }

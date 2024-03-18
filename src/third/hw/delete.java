@@ -1,4 +1,4 @@
 package third.hw;
 
-public class delete `{
+public class delete {
 }
